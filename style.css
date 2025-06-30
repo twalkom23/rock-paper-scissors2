@@ -1,0 +1,13 @@
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 15vh;
+    align-items: center;
+}
+.scoreboard {
+    display: flex;
+    gap: 20%;
+}
+button {
+    margin: 20px;
+}
